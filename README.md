@@ -7,4 +7,4 @@
 
 **** 
 
-Score maximal obtenu : **0.80173**
+Score maximal obtenu : **0.8036**
